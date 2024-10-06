@@ -7,7 +7,7 @@ Welcome to the **Learning Python Programming Language** repository, organized by
 The **Learning Python Programming Language** sessions focus on revisiting key Python programming concepts and enhancing your understanding with real-world examples and practical exercises. Whether you're a beginner or someone looking to brush up on Python, these sessions offer valuable resources to improve your coding skills.
 
 ### Instructors:
-- **Abdul Qadir Imran** - Lead Instructor, Certified Cloud Native Developer (CND)
+- **Abdul Qadir Imran** - Lead Instructor, DevOps Engineer (DOE)
 - **Abdullah Iqbal** - Co-Instructor, Full-Stack Developer (FSD)
 
 ### Learning Goals:
