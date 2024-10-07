@@ -1,38 +1,46 @@
 # Day 1 - What is Programming and Python?
-## What is Programming
-Programming is a way for us to tell computers what to do. Computer is a very dumb machine and it only does what we tell it to do. Hence we learn programming and tell computers to do what we are very slow at - computation. 
-If I ask you to calculate 5+6, you will immediately say 11. 
-How about 23453453 X 56456?
 
-You will start searching for a calculator or jump to a new tab to calculate the same. 
-This 100 days of code series will help you learn python from starting to the end. We will start from 0 and by the time we end this course, I promise you will be a Job ready Python developer!
+## Table of Contents
+1. [What is Programming](#what-is-programming)
+2. [What is Python?](#what-is-python)
+3. [Features of Python](#features-of-python)
+4. [What is Python used for](#what-is-python-used-for)
+5. [Why Replit?](#why-replit)
+6. [Next Lesson](#next-lesson)
+
+## What is Programming
+Programming is a way for us to tell computers what to do. Computers are very simple machines and only do what we tell them to. Hence, we learn programming to instruct computers to do what we are slower at — computation.
+
+If I ask you to calculate 5+6, you will immediately say 11.  
+How about 23453453 X 56456?  
+You will start searching for a calculator or open a new tab to calculate.
+
+This 100 days of code series will help you learn Python from the start to the end. We will start from 0, and by the time we finish this course, I promise you will be a job-ready Python developer!
 
 ## What is Python?
-
--   Python is a dynamically typed, general purpose programming language that supports an object-oriented programming approach as well as a functional programming approach.
--   Python is an interpreted and a high-level programming language.
--   It was created by Guido Van Rossum in 1989. 
+- Python is a dynamically typed, general-purpose programming language that supports both object-oriented and functional programming approaches.
+- Python is an interpreted and high-level programming language.
+- It was created by Guido Van Rossum in 1989.
 
 ## Features of Python
-
--   Python is simple and easy to understand.
--   It is Interpreted and platform-independent which makes debugging very easy.
--   Python is an open-source programming language.
--   Python provides very big library support. Some of the popular libraries include NumPy, Tensorflow, Selenium, OpenCV, etc.
--   It is possible to integrate other programming languages within python.
+- Python is simple and easy to understand.
+- It is interpreted and platform-independent, which makes debugging very easy.
+- Python is an open-source programming language.
+- Python provides extensive library support. Some popular libraries include NumPy, TensorFlow, Selenium, and OpenCV.
+- Python allows integration with other programming languages.
 
 ## What is Python used for
-
--   Python is used in Data Visualization to create plots and graphical representations.
--   Python helps in Data Analytics to analyze and understand raw data for insights and trends.
--   It is used in AI and Machine Learning to simulate human behavior and to learn from past data without hard coding.
--   It is used to create web applications.
--   It can be used to handle databases.
--   It is used in business and accounting to perform complex mathematical operations along with quantitative and qualitative analysis.
+- Data Visualization: To create plots and graphical representations.
+- Data Analytics: To analyze and extract insights from raw data.
+- AI and Machine Learning: To simulate human behavior and learn from past data without explicit programming.
+- Web Development: To build web applications.
+- Database Handling: For managing and interacting with databases.
+- Business and Accounting: To perform complex mathematical operations and quantitative/qualitative analysis.
 
 ## Why Replit?
-- Replit is very easy to share tutorials and code.
-- You can easily fork this repl and continue learning in your own style. Video, code as well as text tutorial on the same page which makes things easy!
-- For fellow teachers out there, you create a .tutorial folder to create tutorials using replit.
+- Replit makes it easy to share tutorials and code.
+- You can easily fork this repl and continue learning at your own pace. The platform integrates video, code, and text tutorials on the same page, simplifying the learning process.
+- For fellow teachers, you can create a `.tutorial` folder to develop tutorials using Replit.
 
-## [Next Lesson>>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/tree/main/Class%2002)
+## Next Lesson
+[Next Lesson>>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/blob/main/Class%2002/Readme.md)
