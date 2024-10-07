@@ -36,4 +36,4 @@ I developed a clone of the popular Flappy Bird game using Python and the Pygame 
 Another classic game I built is the Snake Game. It was a fun way to reinforce my understanding of programming logic, and I enjoyed adding features like score tracking and increasing difficulty levels.
 
 ## Class 03
-[Next Lesson>>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/blob/main/Class%2002/Readme.md)
+[Next Lesson>>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/blob/main/Class%2003/Readme.md)
