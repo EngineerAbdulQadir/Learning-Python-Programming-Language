@@ -42,5 +42,5 @@ This 100 days of code series will help you learn Python from the start to the en
 - You can easily fork this repl and continue learning at your own pace. The platform integrates video, code, and text tutorials on the same page, simplifying the learning process.
 - For fellow teachers, you can create a `.tutorial` folder to develop tutorials using Replit.
 
-## Next Lesson
+## Class 02
 [Next Lesson>>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/blob/main/Class%2002/Readme.md)
