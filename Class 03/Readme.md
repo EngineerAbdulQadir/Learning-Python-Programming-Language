@@ -42,4 +42,4 @@ print(df)  # This will display the first few rows from the words.csv file
 Similarly, we can install other modules and refer to their documentation for usage instructions. We will find ourselves doing this often in the later part of this course.
 
 ## Class 03
-[Next Lesson>>](https://replit.com/@codewithharry/04-Day4-Our-First-Program)
+[Next Lesson>>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/blob/main/Class%2004/Readme.md)
