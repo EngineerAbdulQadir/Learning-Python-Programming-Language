@@ -109,4 +109,4 @@ print(object(s), sep=separator, end=end, file=file, flush=flush)
 Parameters 2 to 4 are optional and allow flexibility in formatting output.
 
 ## Class 06
-[Next Lesson>>](https://replit.com/@codewithharry/06-Day6-Variables-and-Data-Types)
+[Next Lesson>>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/blob/main/Class%2006/Readme.md)
