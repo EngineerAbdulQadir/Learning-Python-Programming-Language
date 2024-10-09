@@ -27,5 +27,5 @@ print("---Your poem here---")
 
 Make sure to complete this task. While it may seem easy for some of you, it's important to finish each and every assignment!
 
-## Class 04
+## Class 05
 [Next Lesson>>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/blob/main/Class%2005/Readme.md)
