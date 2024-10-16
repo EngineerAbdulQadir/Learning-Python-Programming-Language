@@ -42,4 +42,4 @@ In this program:
 4. The results are printed in a formatted, readable manner.
 
 ## Class 09
-[Next Lesson >>](https://replit.com/@codewithharry/09-Day9-Typecasting-in-Python)
+[Next Lesson >>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/blob/main/Class%2009/Readme.md)
