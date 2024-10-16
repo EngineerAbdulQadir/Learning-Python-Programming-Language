@@ -96,4 +96,4 @@ print(dict1)
 ```
 
 ## Class 07
-[Next Lesson>>]()
+[Next Lesson>>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/blob/main/Class%2007/Readme.md)

@@ -65,5 +65,5 @@ Create a calculator capable of performing addition, subtraction, multiplication,
 - The variables `ans1`, `ans2`, `ans3`, `ans4`, `ans5`, and `ans6` hold the results of the addition, subtraction, multiplication, division, modulus, and floor division operations.
 - The program uses arithmetic operators to perform these operations, and the results are printed in a readable format.
 
-## Next Lesson
-[Next Lesson>>](https://replit.com/@codewithharry/08-Day8-Exercise-1-Create-a-Calculator-Solution#main.py)
+## Class 08
+[Next Lesson>>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/blob/main/Class%2008/Readme.md)
