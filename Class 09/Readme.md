@@ -61,4 +61,4 @@ print(type(c))
 ```
 
 ## Class 10
-[Next Lesson >>]()
+[Next Lesson >>](https://github.com/EngineerAbdulQadir/Learning-Python-Programming-Language/blob/main/Class%2010/Readme.md)
